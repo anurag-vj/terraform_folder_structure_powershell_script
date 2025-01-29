@@ -44,7 +44,3 @@ Replace `"your_project_name"` with the desired name of your Terraform project.
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
